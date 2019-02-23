@@ -1,0 +1,6 @@
+framework module Pods_Tarea3 {
+  umbrella header "Pods-Tarea3-umbrella.h"
+
+  export *
+  module * { export * }
+}
